@@ -30,7 +30,7 @@
 
 ## Quick How-To Guide
 
-1. **First Launch (macOS Gatekeeper):** Unzip `FlacDrop-v1.0-arm64.zip`, move `FlacDrop.app` to **Applications**, then **Control-click (right-click) `FlacDrop.app` → Open** *(required once because this free release is not notarized with a paid Apple Developer ID)*.
+1. **First Launch (macOS Gatekeeper):** Unzip `FlacDrop-v1.0-arm64.zip`, move `FlacDrop.app` to **Applications**, then **Control-click (right-click) `FlacDrop.app` > Open** *(required once because this free release is not notarized with a paid Apple Developer ID)*.
 2. **Set Output Directory:** Click **Output Directory** at the bottom-left of the sidebar to choose where converted files go (defaults to **Downloads**).
 3. **Pick Format & Quality:** Open **Settings** to choose a **Preset** or **Manual** format/bitrate/channels.
 4. **Drop Audio Files:** Drag `.flac` files, `.cue` sheets, or album folders into the **Conversion Queue**. *(If dropping a standalone `.cue` file, click **Grant Access** when macOS asks for folder permission to read its `.flac`.)*
